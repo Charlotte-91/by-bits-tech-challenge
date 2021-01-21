@@ -31,7 +31,7 @@ So that I can view my policy details.
 
 - You cannot proceed to the next page with either or both of the login fields blank. An error message will appear when this is attempted. 
 - I chose React Native as I am currently learning it. It was nice learn how to use an API within React Native as I have never done it within that language before.
-- I did not include tests. Sadly I struggled to impliment working tests. Therefore I prioritied the product.
+- Sadly I struggled to impliment working tests. This is due to my lack of experience in React Native, therefore I prioritied the product.
 - I added a small amount of css styling.
 
 ## Time spent
