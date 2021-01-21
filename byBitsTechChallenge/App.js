@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import { StyleSheet } from 'react-native';
 //React Naviagtion//
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
@@ -17,7 +17,7 @@ export default class App extends React.Component {
       <NavigationContainer>
         <Stack.Navigator>
           <Stack.Screen
-            name = "Login"
+            name = "Sign In"
             component={Login}
           />
           <Stack.Screen

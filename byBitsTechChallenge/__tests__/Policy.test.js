@@ -1,0 +1,1 @@
+import Policy from '../components/Policy'
