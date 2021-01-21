@@ -2,7 +2,8 @@
 
 ## Task
 
-Using the Policy API endpoints described below, your task is create a simple web application with a login screen which takes a username and password. Once authorised, it will navigate the user to another page which will display policy details.
+ Create a simple web application with a login screen which takes a username and password. 
+ Once authorised, it will navigate the user to another page which will display policy details.
 
 ## Wireframe
 
